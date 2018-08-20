@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1494612812 source:c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\csoft-código_proyecto-050517.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"sqlite3.h"
+	"Csoft-Código_Altas-080517.h"
+	"Csoft-Código_Bajas-100517.h"
+	"Csoft-Código_Cambios-090517.h"
+
+1494007759 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\ciclo1menus.h
+
+1494007629 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\ciclo2menus.h
+	"Ciclo1Menus.h"
+
+1494010771 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\csoft-código_menus-050517.h
+
+1494533538 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\csoft-código_altas-080517.h
+	"sqlite3.h"
+
+1487053542 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\sqlite3.h
+	<stdarg.h>
+
+1487053542 source:c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<ctype.h>
+	<math.h>
+
+1494620272 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\csoft-código_bajas-100517.h
+	"sqlite3.h"
+
+1494621844 c:\users\rene\documents\upaep\11vo semestre\administración y desarrolo de software\proyectofinal\csoft-código_cambios-090517.h
+	"sqlite3.h"
+

@@ -1,0 +1,4 @@
+-----   PLANES DISPONIBLES PARA ALUMNOS   -------
+ID	Nombre	NumeroSemestres	Fecha
+ISW002	Nueva Ing de Software	1	11/05/17	
+ISW001	Ingenieria de Software	11	12/05/17	
